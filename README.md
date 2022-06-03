@@ -1,4 +1,4 @@
-### Hi, I’m @framsses <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I’m @framsses ✋
 
 <a href="https://www.linkedin.com/in/francisco-ramsses-ayala-romero-6b8662162/">
   <img align="left" alt="framsses's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
