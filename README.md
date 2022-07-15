@@ -22,7 +22,7 @@
 
 <br />
   
-- 💼 Any freelance work where I can help? do reach, [email](mailto:arframsses@hotmail.com) :)
+- 💼 Any freelance work where I can help? reach me, [email](mailto:arframsses@hotmail.com) :)
 - 💬 If you have any advice for me, I'm happy to heard it;
 
 **languages and tools:**  
