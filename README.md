@@ -37,11 +37,10 @@
 <br />
 <br />
 
-<!---
 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=framsses&show_icons=true&theme=gotham" alt="framsses" />
---->
+
 
 Thanks to [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu) for the inspiration
 
