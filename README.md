@@ -1,12 +1,5 @@
 ### Hi everyone, I’m @framsses ✋
 
-<a href="https://www.linkedin.com/in/francisco-ramsses-ayala-romero-6b8662162/">
-  <img align="left" alt="framsses's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/arframsses">
-  <img align="left" alt="framsses | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 <br />
 
 - 📐 I have a BSc Math Degree and a MSc specialization in Mathematics Education
