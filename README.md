@@ -4,7 +4,7 @@
   <img align="left" alt="framsses's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/arframsses">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="framsses | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=framsses.framsses)
@@ -36,14 +36,3 @@
 
 <br />
 <br />
-
-📈 My github stats
-
-<p align="center"> <img src="https://github-readme-stats-framsses.vercel.app/api?username=framsses&show_icons=true&theme=gotham" alt="framsses" />
-
-
-Thanks to [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu) for the inspiration
-
-
-
-
