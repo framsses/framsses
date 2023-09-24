@@ -7,8 +7,6 @@
   <img align="left" alt="framsses | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=framsses.framsses)
-
 <br />
 
 - 📐 I have a BSc Math Degree and a MSc specialization in Mathematics Education
