@@ -5,7 +5,7 @@
 - 📐 I have a BSc Math Degree and a MSc specialization in Mathematics Education
 - 🌵 I’m from Sonora, Mexico
 - 👀 I’m interested in Data Analytics and Responsive Web Design
-- 🌱 I’m currently working with PYTHON, PostgreSQL, T-SQL, HTML, CSS, JS and REACT
+- 🌱 I’m currently working with Python, PostgreSQL, DUckDB, HTML, CSS, JS and TS
 
 <br />
 
